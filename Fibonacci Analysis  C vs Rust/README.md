@@ -1,8 +1,3 @@
-# Midterm p1: Report on Analysis of Fibonacci  Series
-* **Author**: Anam Shamsi
-* **GitHub Repo**: https://github.com/Sp26-CS5008-Online-Lionelle/midterm-anamahmedshamsi12.git
-* **Semester**: Spring 2026
-* **Languages Used**: C, Rust
 
 ## Overview
 The Fibonacci sequence is one of the most extensively studied recurrence relations in mathematics and computer science. While often introduced as a simple numerical pattern, it plays a meaningful role in computational modeling, recursive algorithm analysis, and even fractal visualization research [1]. Because its mathematical definition is concise yet computationally non-trivial, Fibonacci serves as an effective benchmark for evaluating algorithmic efficiency.
